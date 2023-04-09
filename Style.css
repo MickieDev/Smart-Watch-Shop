@@ -1,6 +1,6 @@
 
 .custom-img {
-    box-shadow: 0px 0px 69px -3px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 0px 30px -3px rgba(0, 0, 0, 0.15);
     border-radius: 50px;
 }
 
@@ -9,6 +9,32 @@
     height: 50px;
 }
 
+.custom-btn {
+    width: 180px;
+    height: 50px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 40px -3px rgba(0, 0, 0, 0.1);
+}
+
+#blackColor {
+    background-color: #23211F;
+}
+
+#orengeColor {
+    background-color: #CA3D22;
+}
+
+#pinkColor {
+    background-color: #E9C7BE;
+}
+
+#pupleColor {
+background-color: #565681;
+}
+
+.btn-buy {
+    background-color: #94E114;
+}
 
 @media screen and (max-width: 768px) {
     
