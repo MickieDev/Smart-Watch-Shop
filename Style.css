@@ -13,7 +13,7 @@
     width: 180px;
     height: 50px;
     border-radius: 12px;
-    box-shadow: 0px 0px 40px -3px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0px 0px 40px -3px rgba(0, 0, 0, 0.1); */
 }
 
 #blackColor {
@@ -29,21 +29,13 @@
 }
 
 #pupleColor {
-background-color: #565681;
+    background-color: #565681;
 }
 
 .btn-buy {
     background-color: #94E114;
 }
 
-@media screen and (max-width: 768px) {
-    
-}
-
-
-@media screen and (max-width: 992px) {
-    
-}
 
 
 
